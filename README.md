@@ -198,3 +198,23 @@ Authentication Service is part of Aha streaming app Infrastructure. It is built 
 
 ### Workflow Diagram ###
 ![Workflow.png](https://github.com/Nukalaalekhya/project-1/assets/132035324/d7de0cef-0b87-4937-90ef-62b6bd71587b)
+## Development ##
+
+### Dependencies ###
+1. Nodejs 10+
+2. Visual Studio Code
+
+### How to run ###
+1. Move to the 'app' folder
+```
+cd app
+```
+2. Install the dependencies
+```
+npm install
+``` 
+3. Run the app
+```
+npm start
+```
+4. Verify http://localhost:8081
