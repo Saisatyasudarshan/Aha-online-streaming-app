@@ -197,4 +197,4 @@ Authentication Service is part of Aha streaming app Infrastructure. It is built 
 ## Workflow ##
 
 ### Workflow Diagram ###
-![Workflow.png]((https://github.com/Nukalaalekhya/project-1/assets/132035324/d7de0cef-0b87-4937-90ef-62b6bd71587b))
+![Workflow.png](https://github.com/Nukalaalekhya/project-1/assets/132035324/d7de0cef-0b87-4937-90ef-62b6bd71587b)
